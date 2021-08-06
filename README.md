@@ -26,7 +26,7 @@ Used when your feature vectors are binary.
 This research is using Python3. The packages are used in this project including Numpy, Panda, random, matplotlib.pyplot, sklearn, seaborn.
 
 ### Dataset
-1. [diabetes.csv]()  
+1. [diabetes.csv](https://github.com/Tobi-DataDetective/Naive_Bayes_on_some_dataset/blob/main/diabetes.csv)  
 2. [The Iris dataset which is an In-built dataset in sklearn library](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
 3. [The Wine dataset which is an In-built dataset in sklearn library](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html)
 4. [The 20 newsgroups text dataset is an in-built dataset in skearn library](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html)
